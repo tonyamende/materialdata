@@ -13,7 +13,6 @@
     "property":
         [
         {"property": "Density"},    
-        {"valuetype": "parametricarray"},
         {"value": 
             [
               [["Saturated Liquid - 10 wt. %"],[[-6,988],[0,985]]],
